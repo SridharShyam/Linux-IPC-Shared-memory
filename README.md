@@ -1,4 +1,4 @@
-# Exp-6: Linux IPC-Shared-memory
+# Exp: 6 - Linux IPC-Shared-memory
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 
